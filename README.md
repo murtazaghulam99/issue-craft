@@ -21,15 +21,9 @@ Clone the repository: git clone https://github.com/yourusername/issuecraft.git <
 Install dependencies: npm install <br/>
 Configure your database connection in the .env file. <br/>
 Run migrations: npx prisma migrate dev <br/>
-Start the development server: npm run dev <br/>
-For detailed instructions and customization options, refer to our Documentation. <br/>
+Start the development server: npm run dev
 <br/>
 <br/>
-Contributing <br/>
-We welcome contributions! Please follow our Contribution Guidelines to contribute to IssueCraft.
-<br/>
-<br/>
-
 Happy Coding! 🚀
 <br/>
-Feel free to reach out with any questions or feedback. We're excited to see how IssueCraft can enhance your development workflow.
+Feel free to reach out with any questions or feedback. I'm excited to see how IssueCraft can enhance your development workflow.
