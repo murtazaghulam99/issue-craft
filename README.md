@@ -1,31 +1,39 @@
 IssueCraft - Modern Full-Stack Issue Tracker
-License
-PRs Welcome
-
-Overview
+<br/>
+<br/>
+Overview <br/>
+<br/>
 IssueCraft is a state-of-the-art issue tracker designed for modern development teams. This project leverages the power of Next.js for the app router, Tailwind CSS for a sleek UI, Radix UI for seamless UI components, Prisma for database interactions, and MySQL for data storage.
+<br/>
+<br/>
+Features <br/>
+<br/>
+Intuitive UI: A clean and responsive user interface for effortless navigation. <br/>
+Powerful Back-end: Next.js powers the app router, Prisma handles database interactions, and MySQL ensures data integrity. <br/>
+Customizable Components: Radix UI provides a library of flexible and customizable UI components. <br/>
+Collaborative Issue Tracking: Streamline project management with a robust issue-tracking system. <br/>
+<br/>
+<br/>
+<br/>
+Getting Started <br/>
 
-Features
-Intuitive UI: A clean and responsive user interface for effortless navigation.
-Powerful Back-end: Next.js powers the app router, Prisma handles database interactions, and MySQL ensures data integrity.
-Customizable Components: Radix UI provides a library of flexible and customizable UI components.
-Collaborative Issue Tracking: Streamline project management with a robust issue tracking system.
-Getting Started
 To get started with IssueCraft, follow these simple steps:
-
-Clone the repository: git clone https://github.com/yourusername/issuecraft.git
-Install dependencies: npm install
-Configure your database connection in the .env file.
-Run migrations: npx prisma migrate dev
-Start the development server: npm run dev
-For detailed instructions and customization options, refer to our Documentation.
-
-Contributing
+<br/>
+<br/>
+Clone the repository: git clone https://github.com/yourusername/issuecraft.git <br/>
+Install dependencies: npm install <br/>
+Configure your database connection in the .env file. <br/>
+Run migrations: npx prisma migrate dev <br/>
+Start the development server: npm run dev <br/>
+For detailed instructions and customization options, refer to our Documentation. <br/>
+<br/>
+<br/>
+<br/>
+Contributing <br/>
 We welcome contributions! Please follow our Contribution Guidelines to contribute to IssueCraft.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+<br/>
+<br/>
 
 Happy Coding! 🚀
-
+<br/>
 Feel free to reach out with any questions or feedback. We're excited to see how IssueCraft can enhance your development workflow.
