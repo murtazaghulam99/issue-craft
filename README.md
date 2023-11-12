@@ -1,4 +1,4 @@
-IssueCraft - Modern Full-Stack Issue Tracker
+<h1>IssueCraft - Modern Full-Stack Issue Tracker</h1>
 <br/>
 <br/>
 Overview <br/>
@@ -14,11 +14,8 @@ Customizable Components: Radix UI provides a library of flexible and customizabl
 Collaborative Issue Tracking: Streamline project management with a robust issue-tracking system. <br/>
 <br/>
 <br/>
-<br/>
 Getting Started <br/>
-
 To get started with IssueCraft, follow these simple steps:
-<br/>
 <br/>
 Clone the repository: git clone https://github.com/yourusername/issuecraft.git <br/>
 Install dependencies: npm install <br/>
@@ -26,7 +23,6 @@ Configure your database connection in the .env file. <br/>
 Run migrations: npx prisma migrate dev <br/>
 Start the development server: npm run dev <br/>
 For detailed instructions and customization options, refer to our Documentation. <br/>
-<br/>
 <br/>
 <br/>
 Contributing <br/>
